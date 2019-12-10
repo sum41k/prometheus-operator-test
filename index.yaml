@@ -3,10 +3,10 @@ entries:
   prometheus-operator:
   - apiVersion: v1
     appVersion: 0.34.0
-    created: "2019-12-10T13:19:20.3236842+02:00"
+    created: "2019-12-10T14:49:54.5455343+02:00"
     description: Provides easy monitoring definitions for Kubernetes services, and
       deployment and management of Prometheus instances.
-    digest: 795e44812a3345d81f127382cb7c9dbf840113f4205922579e0636b38a3a4b37
+    digest: 9c58b6ae5b81e39f93b8b1726938982d36eba90281549112c4a090e8d7877750
     engine: gotpl
     home: https://github.com/coreos/prometheus-operator
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://sum41k.github.io/prometheus-operator-test/prometheus-operator-8.3.2.tgz
     version: 8.3.2
-generated: "2019-12-10T13:19:20.3080499+02:00"
+generated: "2019-12-10T14:49:54.5298865+02:00"
